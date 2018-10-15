@@ -1,6 +1,6 @@
-- **rational.cpp**: a class for operations with long rational numbers<br>
-- **permutation.cpp**: a class for operations with permutations of {1, ..., n}<br>
-- **external.cpp**: external sorting & reversing of a long sequence of integers<br>
-- **treap.cpp**: a treap (also called a Cartesian tree) with implicit keys that can do a lot of different operations on subsegments in O(log n) time<br>
-- **xor_list.cpp**: a doubly-linked list that only stores one additional field and uses a stack-based memory allocator<br>
-- **nim.cpp**: solving the Nim game at compilation time
+- **rational.cpp**: a class for operations with long rational numbers [term 1]<br>
+- **permutation.cpp**: a class for operations with permutations of {1, ..., n} [term 1]<br>
+- **external.cpp**: external sorting & reversing of a long sequence of integers [term 1]<br>
+- **treap.cpp**: a treap (also called a Cartesian tree) with implicit keys that can do a lot of different operations on subsegments in O(log n) time [term 2]<br>
+- **xor_list.cpp**: a doubly-linked list that only stores one additional field and uses a stack-based memory allocator [term 2]<br>
+- **nim.cpp**: solving the Nim game at compilation time [term 2]
