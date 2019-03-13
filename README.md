@@ -5,3 +5,4 @@
 - **xor_list**: a doubly-linked list that only stores one additional field and uses a stack-based memory allocator [term 2]<br>
 - **nim**: solving the Nim game at compilation time [term 2]<br>
 - **flows**: Malhotra-Kumar-Maheshwari & push-relabel algorithms for finding maximum flow in a network in O(V^3) time [term 3]
+- **multi_belonging**: an offline O(n log n) solution of point-in-polygon problem for many points and a non-convex polygon [term 3]
